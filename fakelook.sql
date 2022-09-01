@@ -3,6 +3,8 @@
 
 CREATE DATABASE fakelook;
 
+USE fakelook;
+
 CREATE TABLE users ( 
 id int AUTOINCREMENT PRIMARY KEY,
 username varchar(100) NOT NULL,
