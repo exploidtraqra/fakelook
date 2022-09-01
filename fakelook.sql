@@ -1,3 +1,4 @@
+#database fakelook
 
 
 CREATE DATABASE fakelook;
